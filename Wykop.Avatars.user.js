@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wykop Uniq Avatar
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Avatars for the Wykop.pl generated from user nickname
 // @author       skorotkiewicz
 // @match        https://www.wykop.pl/wpis/*
@@ -10,6 +10,8 @@
 // @match        https://www.wykop.pl/wiadomosc-prywatna/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wykop.pl
 // @grant        none
+// @downloadURL https://raw.githubusercontent.com/skorotkiewicz/wykop-uniq-avatar/main/Wykop.Avatars.user.js
+// @updateURL   https://raw.githubusercontent.com/skorotkiewicz/wykop-uniq-avatar/main/Wykop.Avatars.user.js
 // ==/UserScript==
 
 (function () {
