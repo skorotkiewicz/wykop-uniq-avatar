@@ -1,5 +1,7 @@
 # Wykop Uniq Users Avatars
 
+The script generates a unique avatar for each user by their nickname, so it will always be the same.
+
 ## How to install
 
 Download [Tampermonkey](https://www.tampermonkey.net)
