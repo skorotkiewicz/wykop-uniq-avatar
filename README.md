@@ -12,9 +12,11 @@ Download [Tampermonkey](https://www.tampermonkey.net)
 - [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089?mt=12)
 - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
-After installing the addon, click on the Tampermonkey icon, click on "Add new script" a window will open in which you have to paste the contents of the [Wykop.Avatars.user.js](https://raw.githubusercontent.com/skorotkiewicz/wykop-uniq-avatar/main/Wykop.Avatars.user.js) file.
+After installing the addon, click on the Tampermonkey icon, click on "Add new script" a window will open in which you have to paste the contents of the `Wykop.Avatars.user.js` file.
 
 After pasting, do not forget to save the file, you can do this using the shortcut Ctrl+S or File->Save
+
+> Or click [here](https://raw.githubusercontent.com/skorotkiewicz/wykop-uniq-avatar/main/Wykop.Avatars.user.js) to automatically install the script.
 
 ## How it looks
 
