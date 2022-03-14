@@ -6,7 +6,6 @@
 // @author       skorotkiewicz
 // @match        https://www.wykop.pl/wpis/*
 // @match        https://www.wykop.pl/mikroblog/*
-
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wykop.pl
 // @grant        none
 // ==/UserScript==
