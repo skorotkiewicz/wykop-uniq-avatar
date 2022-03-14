@@ -27,6 +27,8 @@
           const s = entry.target.innerText;
           const r = 1;
 
+          observer.unobserve(entry.target);
+
           if (s) {
             for (
               let s = entry.target.innerText, r = 1, i = 28 + s.length;
